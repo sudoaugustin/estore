@@ -20,18 +20,18 @@ const ProductItem = ({ id, name, price, fileIndex = 3, items, style, classes, im
   const [color, setColor] = useState(colors[0]);
 
   return (
-    <Link href={`/products/${id}`}>
-      <div>
+    <div>
+      <Link href={`/products/${id}`}>
         <div className='cursor-pointer group flex flex-col'>
           <ProductImage path={`products/${id}/${color}/${fileIndex}`} width={imageWidth} />
           <h3 className={`mt-4 truncate w-full ${classes.name}`}>{name}</h3>
           <p className={`mt-1 ${classes.price}`}>{price} Ks</p>
         </div>
-        {style == 'color_swatches' && (
-          <ColorList colors={colors} activeColor={color} onClick={setColor} />
-        )}
-      </div>
-    </Link>
+      </Link>
+      {style == 'color_swatches' && (
+        <ColorList colors={colors} activeColor={color} onClick={setColor} />
+      )}
+    </div>
   );
 };
 
