@@ -1,0 +1,36 @@
+[
+  {
+    "id": "9ad2",
+    "name": "Jhon Doe",
+    "email": "johndoe@example.com",
+    "password": "<M/QkzE2kbka]6u",
+    "card": {
+      "no": "4242 4242 4242 4242",
+      "exp": "05/25",
+      "cvc": "567"
+    },
+    "location": {
+      "address": "No.321, 7th street, North Okkalapa",
+      "city": "Yangon",
+      "province": "Burma",
+      "postal": "11011"
+    }
+  },
+  {
+    "id": "4ff3",
+    "name": "Jane Doe",
+    "email": "janedoe@example.com",
+    "password": "chw6%x9>u/c[pqf.",
+    "card": {
+      "no": "4000 0025 0000 3155",
+      "exp": "05/23",
+      "cvc": "123"
+    },
+    "location": {
+      "address": "5th floor,No.96, 94th street, Taung Nyunt",
+      "city": "Yangon",
+      "province": "Burma",
+      "postal": "13511"
+    }
+  }
+]

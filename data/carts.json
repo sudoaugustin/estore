@@ -1,0 +1,39 @@
+{
+  "4ff3": [
+    {
+      "id": "TMItX",
+      "color": "#957D21",
+      "name": "Raglan sleeve tea",
+      "price": 19500,
+      "size": "XS"
+    },
+    { "id": "363Wz", "color": "#EBE8DC", "name": "Leather clutch bag", "price": 14000, "size": "" },
+    {
+      "id": "ulmMc",
+      "color": "#E6E1D3",
+      "name": "Knotted leather sandal",
+      "price": 11000,
+      "size": "36"
+    },
+    { "id": "TzfRT", "name": "Shine strap watch", "color": "#C5D4DB", "size": "", "price": 15000 },
+    { "id": "TzfRT", "name": "Shine strap watch", "color": "#C5D4DB", "size": "", "price": 15000 }
+  ],
+  "9ad2": [
+    {
+      "id": "rgJQF",
+      "color": "#EFEEE8",
+      "name": "Floral printed shirt",
+      "price": 6900,
+      "size": "XS"
+    },
+    {
+      "id": "UUpag",
+      "name": "Paper touch backpack",
+      "color": "#514F4F",
+      "size": "",
+      "price": 19500
+    },
+    { "id": "ZiDPs", "name": "Pilot sunglasses", "color": "#7D332C", "size": "", "price": 9500 },
+    { "id": "ZiDPs", "name": "Pilot sunglasses", "color": "#7D332C", "size": "", "price": 9500 }
+  ]
+}

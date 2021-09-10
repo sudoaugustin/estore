@@ -1,0 +1,215 @@
+[
+  {
+    "id": "LUqviwq2",
+    "items": ["TMItX.#E06C87", "363Wz.#292726"],
+    "gender": "women"
+  },
+
+  {
+    "id": "hoX16JSl",
+    "items": ["rgJQF.#EFEEE8", "8RHV3.#FFFFFF", "PnAUf.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "aUi6j41f",
+    "items": ["TMItX.#957D21", "363Wz.#EBE8DC", "ulmMc.#E6E1D3"],
+    "gender": "women"
+  },
+  {
+    "id": "Xr5w3vLc",
+    "items": ["9YMPC.#444B5D", "QrH7s.#8AA7BE", "ulmMc.#E6E1D3"],
+    "gender": "women"
+  },
+  {
+    "id": "ZwfALtbq",
+    "items": ["w0erp.#215C52", "7fCbS.#3D382E", "T2tVH.#000000"],
+    "gender": "men"
+  },
+  {
+    "id": "GxblGJCz",
+    "items": ["M4BNa.#4D4D5D", "g2SZH.#EBECE7", "cvzHQ.#F1F1E6"],
+    "gender": "women"
+  },
+
+  {
+    "id": "Tcczz7ev",
+    "items": ["vLyjs.#96C6B8", "dYxs9.#EAE7DA", "C9Sit.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "hDVbxzEF",
+    "items": ["LKcl1.#89321E", "GIFUD.#E4C9C6"],
+    "gender": "women"
+  },
+  {
+    "id": "KGUjmfAr",
+    "items": ["WreEk.#8F6F40", "g2SZH.#3C3B34", "ulmMc.#272423"],
+    "gender": "women"
+  },
+  {
+    "id": "KKPG9KJI",
+    "items": ["TN6EK.#7B693B", "U7SHj.#1B1C17", "bcOkm.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "pFeTK6Ch",
+    "items": ["0KCni.#EFEADC", "6fW40.#DECFBB"],
+    "gender": "women"
+  },
+  {
+    "id": "SAdMpWcN",
+    "items": ["45VEM.#BC6D3D", "jEO7x.#7A9EB0"],
+    "gender": "women"
+  },
+  {
+    "id": "UPVp4jyG",
+    "items": ["Vsjx2.#1F153C", "U7SHj.#1B1C17", "rreRO.#323231", "kol9n.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "zhQAopE4",
+    "items": ["wKPFj.#252A34", "EBXJC.#252A34", "cvzHQ.#F1F1E6", "wh05b.#C3C1CB"],
+    "gender": "women"
+  },
+  {
+    "id": "AmMJESLL",
+    "items": ["EMSLI.#3B3B50", "8RHV3.#FFFFFF", "PnAUf.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "cog8dTqL",
+    "items": ["GFwjb.#21221D", "ulmMc.#E6E1D3", "Ruuc9.#797AA0"],
+    "gender": "women"
+  },
+  {
+    "id": "AIpZyKHb",
+    "items": ["Tc3yH.#B68D54", "CLDOg.#B68D54", "AJ8cA.#AA884F", "bcOkm.#FFFFFF", "n1KGJ.#E2A657"],
+    "gender": "men"
+  },
+  {
+    "id": "lhZr3bol",
+    "items": ["5dyp4.#1F201B", "U6SDi.#1F201B", "pYvhG.#131410", "VxGRq.#365B48"],
+    "gender": "women"
+  },
+  {
+    "id": "HvtaD5yR",
+    "items": ["vLyjs.#888C8F", "CLDOg.#B68D54", "tg3h1.#191917", "C9Sit.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "EDFtv6Cl",
+    "items": ["wKPFj.#252A34", "EBXJC.#252A34", "cvzHQ.#F1F1E6", "VxGRq.#8C8CA8"],
+    "gender": "women"
+  },
+
+  {
+    "id": "DF731lDk",
+    "items": ["rgJQF.#EFEEE8", "VpeP3.#EFEEE8", "bcOkm.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "1vjD4x2v",
+    "items": ["YDR6w.#2F3643", "NcKTU.#FFFFFF", "cvzHQ.#F1F1E6", "g2SZH.#EBECE7"],
+    "gender": "women"
+  },
+  {
+    "id": "RLr5BM8X",
+    "items": ["w0erp.#215C52", "enCvr.#212F48", "K3YWQ.#6B3B30"],
+    "gender": "men"
+  },
+  {
+    "id": "MqzW5BxZ",
+    "items": ["8kWZB.#414F5C", "TazwU.#35343B", "g2SZH.#EBECE7", "ulmMc.#E6E1D3"],
+    "gender": "women"
+  },
+  {
+    "id": "Ysc3u8Gz",
+    "items": ["vkFzf.#292F42", "T1Eht.#2F323E", "C9Sit.#FFFFFF"],
+    "gender": "men"
+  },
+
+  {
+    "id": "TUdZGz9o",
+    "items": ["noMS7.#3E3E49", "SOinu.#3D3D3F", "vYHwi.#0C0D08", "cTxtb.#DCCDB5"],
+    "gender": "women"
+  },
+  {
+    "id": "SqZSvYQH",
+    "items": ["dkYa5.#D3B49E", "Tc3yH.#B68D54", "dYxs9.#EAE7DA", "MDDQ4.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "dNIKtumN",
+    "items": ["noMS7.#D8CABF", "DUSs8.#B4B59E", "vYHwi.#D4592E", "cTxtb.#DCCDB5"],
+    "gender": "women"
+  },
+  {
+    "id": "RS5KFW8k",
+    "items": ["vkFzf.#CECECC", "T1Eht.#ACABA9", "C9Sit.#FFFFFF"],
+    "gender": "men"
+  },
+
+  {
+    "id": "cle46sQM",
+    "items": ["wx6fz.#B7B7B5", "gYAHb.#B7B7B5", "g2SZH.#EBECE7", "cvzHQ.#F1F1E6"],
+    "gender": "women"
+  },
+  {
+    "id": "ILYztZKs",
+    "items": ["wx6fz.#B7B7B5", "NcKTU.#FFFFFF", "363Wz.#EBE8DC", "cvzHQ.#F1F1E6"],
+    "gender": "women"
+  },
+
+  {
+    "id": "OPZF2LwE",
+    "items": ["dkYa5.#D3B49E", "8RHV3.#FFFFFF", "kol9n.#FFFFFF", "n1KGJ.#E2A657"],
+    "gender": "men"
+  },
+  {
+    "id": "uxO2uo33",
+    "items": ["kDED6.#4C4D27", "SOinu.#3D3D3F", "g2SZH.#3C3B34", "ulmMc.#272423"],
+    "gender": "women"
+  },
+  {
+    "id": "aly54Rni",
+    "items": ["Fvutl.#DDF0BC", "NcKTU.#FFFFFF", "6fW40.#DECFBB"],
+    "gender": "women"
+  },
+  {
+    "id": "AvqyaF5R",
+    "items": ["PmOAF.#222126", "U7SHj.#AD8552", "C9Sit.#FFFFFF", "UUpag.#514F4F"],
+    "gender": "men"
+  },
+  {
+    "id": "SvpmtThf",
+    "items": ["PmOAF.#F7F6F9", "T1Eht.#ACABA9", "C9Sit.#FFFFFF", "n1KGJ.#3E474F"],
+    "gender": "men"
+  },
+  {
+    "id": "a0eraD5I",
+    "items": ["zmso3.#F0D9D3", "8RHV3.#FFFFFF", "bcOkm.#FFFFFF"],
+    "gender": "men"
+  },
+
+  {
+    "id": "h4JXfD4f",
+    "items": ["DqLr8.#C9D2D3", "dYxs9.#EAE7DA", "kol9n.#FFFFFF"],
+    "gender": "men"
+  },
+  {
+    "id": "SEcLvkiW",
+    "items": ["vkFzf.#131217", "T1Eht.#2F2B2C", "C9Sit.#FFFFFF", "AJ8cA.#AA884F"],
+    "gender": "men"
+  },
+
+  {
+    "id": "dGQ7R2t9",
+    "items": ["8QYJp.#483B1D", "U7SHj.#1B1C17", "K3YWQ.#EC8832"],
+    "gender": "men"
+  },
+  {
+    "id": "iiCLzQVM",
+    "items": ["8QYJp.#11131E", "U7SHj.#1B1C17", "T2tVH.#000000"],
+    "gender": "men"
+  }
+]

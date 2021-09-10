@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scrollbar-color: theme('colors.gray.300') theme('colors.gray.100');
+  &::-webkit-scrollbar {
+    @apply w-1.5 h-1;
+  }
+  &::-webkit-scrollbar-track {
+    @apply bg-gray-100;
+  }
+  &::-webkit-scrollbar-thumb {
+    @apply bg-gray-300 rounded-full hover:bg-gray-400;
+  }
+}
+[type='checkbox']:checked {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M5.707 7.293a1 1 0 0 0-1.414 1.414l2 2a1 1 0 0 0 1.414 0l4-4a1 1 0 0 0-1.414-1.414L7 8.586 5.707 7.293z'/%3e%3c/svg%3e");
+}
+
+.scrollbar-hidden {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    @apply w-0;
+  }
+}
+
+.bg-pattern-polka2 {
+  background-image: radial-gradient(
+      theme('colors.gray.600') 0.7000000000000001px,
+      transparent 0.7000000000000001px
+    ),
+    radial-gradient(
+      theme('colors.gray.600') 0.7000000000000001px,
+      rgba(230, 230, 247, 0) 0.7000000000000001px
+    );
+  background-size: 28px 28px;
+  background-position: 0 0, 14px 14px;
+}
+
+@-moz-document url-prefix() {
+  .firefox\:bg-opacity-90 {
+    --tw-bg-opacity: 0.9;
+  }
+}
